@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-  vector<int> selected_cards = {2, 5, 1, 5, 3, 5, 2, 2, 2, 6, 2, 5, 3, 4, 3, 3, 2, 6, 2, 3, 5, 2, 3, 4, 4, 2, 2, 4, 3, 4, 2, 6, 1, 3, 1, 3, 5, 1, 1, 1};
+  vector<int> selected_cards = {10, 10, 9, 9, 3, 5, 2, 2, 2, 6, 2, 5, 3, 4, 3, 3, 2, 6, 2, 3, 5, 2, 3, 4, 4, 2, 2, 4, 3, 4, 2, 6, 1, 3, 1, 3, 5, 1, 1, 1};
 
   // Count the number of pairs that add up to more than 9
   int num_pairs = 0;
